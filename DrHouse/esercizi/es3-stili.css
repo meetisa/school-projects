@@ -1,0 +1,23 @@
+p {
+    font: Tahoma;
+    font-size: 14pt;
+    color: red;
+    font-style: bold;
+    line-height: 200%;
+}
+
+.toxic {
+    text-decoration: underline;
+    color: green;
+    background: black;
+}
+
+b {
+    text-decoration: underline;
+}
+
+i {
+    text-decoration: underline;
+}
+
+link.
